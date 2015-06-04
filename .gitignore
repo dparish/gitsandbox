@@ -1,6 +1,5 @@
 .gradle
 *.iml
 *.log
-build/
 .DS_Store
 
